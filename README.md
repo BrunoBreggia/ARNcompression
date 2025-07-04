@@ -2,7 +2,7 @@
 
 Secuencias largas de datos con alfabetos reducidos, como por ejemplo el ARN ($\mathcal{A}=\{A,U,G,C\}$),
 tienen elevadas probabilidades de que se repitan patrones comunes a lo largo de la secuencia.
-En la práctica, se sabe que hay regines conservadas que son comunes en los seres vivos en general o 
+En la práctica, se sabe que hay regiones conservadas que son comunes en los seres vivos en general o 
 entre algunas familias o especies. Por lo tanto podemos asumir que hay reglas generales sobre la 
 combinación de estos caracteres. En tal caso, debería ser posible que un modelo de machine learning
 sea capaz de aprender estas reglas y probablemente poder comprimir las secuencias en otras de longitud
